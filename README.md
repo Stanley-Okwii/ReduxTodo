@@ -1,2 +1,0 @@
-# ReduxTodo
-Created with CodeSandbox
